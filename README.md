@@ -4,7 +4,7 @@
 - Non-web server Node.js JavaScript code
     - Lambda expressions
     - Object destructuring
-    - Ternary operaters
+    - Ternary operators
     - Classes
     - constructor() method
     - .forEach() array method
@@ -48,7 +48,7 @@ module.exports = class Monster {
 ```
 
 
-Main entry point for game (provided by proffesor):
+Main entry point for game (provided by professor):
 
 [p5.js](https://lizz02.github.io/cit281-p5/p5.js)
 
